@@ -11,18 +11,17 @@ export default function Home() {
 
   return (
     <main className={`flex  min-h-screen flex-col items-center justify-between ${inter.className}`}>
+      <Headers/>
 
-     <Headers/>
+      <Hero/>
 
-     <Hero/>
+      <About/>
 
-     <About/>
+      <Skills/>
 
-     <Skills/>
+      <Portfolio/>
 
-     <Portfolio/>
-
-     <Footer/>
+      <Footer/>
     </main>
   )
 }
