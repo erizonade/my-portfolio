@@ -4,7 +4,7 @@ import React, {useState, useEffect, Suspense} from 'react'
 export default function Portfolio() {
   const listPortfolio = [
     {
-        'images' : '/assets/portfolio/dibajol.png',
+        'images' : 'assets/portfolio/dibajol.png',
         'title'  : 'Dibajol',
         'description' : 'The Dibajolbae application is an online shopping application for market and retail goods in the city of Palembang. My role here is fullstack admin',
         'url'  : '',
@@ -12,7 +12,7 @@ export default function Portfolio() {
         'id' : 1
     },
     {
-        'images' : '/assets/portfolio/digital.png',
+        'images' : 'assets/portfolio/digital.png',
         'title'  : 'Digital Printing',
         'description' : 'Websites that provide printing services for banners, posters, XBanners, etc. that are used for consumers. my role here is to configure save to Gdrive from consumer uploads, login funds, and the direction for making this application.',
         'url' : '',
@@ -20,7 +20,7 @@ export default function Portfolio() {
         'id' : 2
     },
     {
-        'images' : '/assets/portfolio/pasardhd.png',
+        'images' : 'assets/portfolio/pasardhd.png',
         'title'  : 'Pasar Online',
         'description' : 'Pasardhd application as an online shopping application for market and retail goods in the city of Palembang. My role here is fullstack in several admins',
         'url' : '',
@@ -28,7 +28,7 @@ export default function Portfolio() {
         'id' : 3
     },
     {
-        'images' : '/assets/portfolio/profile_si.png',
+        'images' : 'assets/portfolio/profile_si.png',
         'title'  : 'Web Prodi Sistem Informasi',
         'description' : 'This website is a portal of the information systems study program from the science and technology faculty of UIN Raden Fatah Palembang to provide information to students and the public. My role here is as a full stack web developer.',
         'url' : '',
@@ -36,7 +36,7 @@ export default function Portfolio() {
         'id' : 4
     },
     {
-        'images' : '/assets/portfolio/seminar.png',
+        'images' : 'assets/portfolio/seminar.png',
         'title'  : 'LKPK Masterpreneur',
         'description' : 'Is a website that provides online and offline seminar services intended for the general public. My role here is fullstack admin and web portal backend',
         'url' : '',
@@ -44,7 +44,7 @@ export default function Portfolio() {
         'id' : 5
     },
     {
-        'images' : '/assets/portfolio/sbsplg.png',
+        'images' : 'assets/portfolio/sbsplg.png',
         'title'  : 'PT. Semangat Baru Sejahtera',
         'description' : 'Web created for company profiles engaged in spare parts and oil. My role here is fullstack admin',
         'url' : '',
@@ -52,7 +52,7 @@ export default function Portfolio() {
         'id' : 6
     },
     {
-        'images' : '/assets/portfolio/sisfo_campus.png',
+        'images' : 'assets/portfolio/sisfo_campus.png',
         'title'  : 'Sisfo Campus',
         'description' : 'Web created for company profiles engaged in spare parts and oil. My role here is fullstack admin',
         'url' : '',
@@ -60,7 +60,7 @@ export default function Portfolio() {
         'id' : 7
     },
     {
-        'images' : '/assets/portfolio/diary_monitoring.png',
+        'images' : 'assets/portfolio/diary_monitoring.png',
         'title'  : 'Diary Monitoring',
         'description' : 'Application used to monitor the daily life of diabetes patients by using an alarm for reminders. this app is build with flutter my fullstack role',
         'url' : '',
@@ -68,7 +68,7 @@ export default function Portfolio() {
         'id' : 8
     },
     {
-        'images' : '/assets/portfolio/resepmasak.png',
+        'images' : 'assets/portfolio/resepmasak.png',
         'title'  : 'Resep Masakan',
         'description' : 'Application that is used for housewives and others so that they can get recipes for traditional and international dishes more quickly. app made with flutter',
         'url' : 'https://github.com/erizonade/resep-masak-bunda',
@@ -76,7 +76,7 @@ export default function Portfolio() {
         'id' : 9
     },
     {
-        'images' : '/assets/portfolio/emuslim.png',
+        'images' : 'assets/portfolio/emuslim.png',
         'title'  : "Muslim Qur'an",
         'description' : "This application was made to make it easier for all Muslims to read the Al-Qur&apos;an anywhere and prayer schedules and there are prayers. However, this application is not finished, it is still in the development stage, when the application can only be used internally",
         'url' : '',

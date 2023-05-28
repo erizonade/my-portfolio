@@ -6,39 +6,39 @@ export default function Skills() {
 
     const listSkillSummary = [
         {
-          'icon'  : '/assets/skills/php.png',
+          'icon'  : 'assets/skills/php.png',
           'title' : 'PHP'
         },
         {
-          'icon'  : '/assets/skills/laravel.png',
+          'icon'  : 'assets/skills/laravel.png',
           'title' : 'LARAVEL'
         },
         {
-          'icon'  : '/assets/skills/dart.png',
+          'icon'  : 'assets/skills/dart.png',
           'title' : 'DART'
         },
         {
-          'icon'  : '/assets/skills/flutter.png',
+          'icon'  : 'assets/skills/flutter.png',
           'title' : 'FLUTTER'
         },
         {
-          'icon'  : '/assets/skills/jquery.png',
+          'icon'  : 'assets/skills/jquery.png',
           'title' : 'JQUERY'
         },
         {
-          'icon'  : '/assets/skills/mysql.png',
+          'icon'  : 'assets/skills/mysql.png',
           'title' : 'MYSQL'
         },
         {
-          'icon'  : '/assets/skills/sqlserver.png',
+          'icon'  : 'assets/skills/sqlserver.png',
           'title' : 'SQL SERVER'
         },
         {
-          'icon'  : '/assets/skills/javascript.png',
+          'icon'  : 'assets/skills/javascript.png',
           'title' : 'JAVASCRIPT'
         },
         {
-          'icon'  : '/assets/skills/bootstrap.png',
+          'icon'  : 'assets/skills/bootstrap.png',
           'title' : 'BOOTSTRAP'
         },
     
