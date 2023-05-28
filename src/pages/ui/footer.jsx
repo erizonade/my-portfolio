@@ -6,17 +6,17 @@ export default function Footer() {
     {
       'name': 'Github',
       'link': 'https://github.com/erizonade',
-      'icon' : '/assets/icon/github.png'
+      'icon' : 'assets/icon/github.png'
     },
     {
       'name': 'LinkedIn',
       'link': 'https://www.linkedin.com/in/erizon-ade-pratama',
-      'icon' : '/assets/icon/linkedinn.png'
+      'icon' : 'assets/icon/linkedinn.png'
     },
     {
       'name': 'Email',
       'link': 'https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=erizonsmart88@gmail.com',
-      'icon' : '/assets/icon/email.png'
+      'icon' : 'assets/icon/email.png'
     },
   ]
   return (

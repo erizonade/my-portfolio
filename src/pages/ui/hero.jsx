@@ -24,7 +24,7 @@ export default function Hero() {
             <div className="mask mask-squircle md:w-80 lg:w-80  invisible md:invisible lg:visible hover:scale-105 duration-700">
               <Image
                   priority={true}
-                  src="/assets/erizon.jpg"
+                  src="assets/erizon.jpg"
                   width={500}
                   height={500}
                   alt="Picture of the author"
