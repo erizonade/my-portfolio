@@ -46,7 +46,7 @@ export default function About() {
 
 
   return (
-    <div id='about' className='flex flex-col justify-center items-center w-full h-screen pt-20 px-2 md:px-0'>
+    <div id='about' className='flex flex-col justify-center items-center w-full md:h-screen pt-20 px-2 md:px-0'>
       <div className='w-full h-full max-w-[1000px]'>
         <div className='flex flex-col md:py-10 py-5 '>
             <p className='text-2xl md:text-4xl text-[#1B9C85] font-mono font-bold'>ABOUT ME</p>
